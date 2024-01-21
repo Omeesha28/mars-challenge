@@ -9,7 +9,7 @@ Part 1: Scrape titles and preview text from Mars news articles. Optionally expor
 
 Part 2: Scrape and analyse Mars weather data, which exists in a table.
 
-###Analysis 
+### Analysis 
 How many months exist on Mars?
 
 There are 12 months on Mars.
