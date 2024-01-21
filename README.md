@@ -11,21 +11,29 @@ Part 2: Scrape and analyse Mars weather data, which exists in a table.
 
 ###Analysis 
 How many months exist on Mars?
+
 There are 12 months on Mars.
 
 How many Martian days' worth of data are there?
+
 There is 1867 Martian days worth of data. 
 
 What is the average low temperature by month?
+
 ![output](Avg_low_temp_by_month.png)
 
 Which month, on average, has the lowest temperature? The highest? 
+
 The coldest month is Month 3 and the hottest month is Month 8.
+
 ![output](1.png)
 
 Which month, on average, has the lowest atmospheric pressure? The highest? 
+
 The month with the lowest atmospheric pressure is Month 6 and the month with the highest atmospheric pressure is Month 9 .
+
 ![output](2.png)
 
 How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. 
+
 ![output](3.png)
